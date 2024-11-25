@@ -89,6 +89,7 @@ const Navbar = () => {
           <ul className="lg:hidden flex flex-col space-y-4 mt-4 text-white">
             <li><Link to="/" className="hover:text-gray-200">Home</Link></li>
             <li><Link to="/about" className="hover:text-gray-200">About</Link></li>
+             <li><Link to="/albumb" className="hover:text-gray-200">Album</Link></li>
             <li><Link to="/service" className="hover:text-gray-200">Service</Link></li>
             <li><Link to="/contact" className="hover:text-gray-200">Contact</Link></li>
             <li>
