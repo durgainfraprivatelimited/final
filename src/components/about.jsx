@@ -87,19 +87,20 @@ const About = () => {
       </div>
 
       {/* Team Leadership Section */}
+        {/* Team Leadership Section */}
       <div className="bg-white py-16">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-gray-800 text-center mb-12">Our Leadership Team</h2>
-          <div className=" flex justify-center grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Founder Profile */}
-           
+            {/* Add founder profile here if needed */}
 
             {/* CEO Profile */}
             <div className="bg-gray-50 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow">
               <img
                 src="/image/CEO.jpeg"
                 alt="CEO"
-                className="w-48 h-48 rounded-full mx-auto mb-4 object-cover border-4 border-blue-500"
+                className="w-32 h-32 sm:w-48 sm:h-48 rounded-full mx-auto mb-4 object-cover border-4 border-blue-500"
               />
               <h3 className="text-xl font-bold text-gray-800 text-center">Mr. Rangappa Rajput</h3>
               <p className="text-blue-600 text-center mb-4">Chief Executive Officer</p>
@@ -115,7 +116,7 @@ const About = () => {
               <img
                 src="/image/profile.png"
                 alt="Director"
-                className="w-48 h-48 rounded-full mx-auto mb-4 object-cover border-4 border-blue-500"
+                className="w-32 h-32 sm:w-48 sm:h-48 rounded-full mx-auto mb-4 object-cover border-4 border-blue-500"
               />
               <h3 className="text-xl font-bold text-gray-800 text-center">Mr. Sachin Rajput</h3>
               <p className="text-blue-600 text-center mb-4">Director</p>
@@ -125,7 +126,6 @@ const About = () => {
                 significantly.
               </p>
             </div>
-
             {/* Project Manager Profile */}
             
           </div>
