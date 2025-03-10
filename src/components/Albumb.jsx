@@ -325,7 +325,6 @@ const Album = () => {
 
   // Function to handle image load error
   const handleImageError = (e) => {
-    // Try different extensions if image fails to load
     const currentSrc = e.target.src;
     const extensions = ['jpg', 'jpeg', 'png'];
     const currentExt = currentSrc.split('.').pop();
@@ -336,8 +335,8 @@ const Album = () => {
       const newExt = extensions[index + 1];
       e.target.src = currentSrc.replace(`.${currentExt}`, `.${newExt}`);
     } else {
-      // If all extensions fail, use placeholder
-      e.target.src = 'https://via.placeholder.com/300x400?text=Image+Not+Found';
+      // If all extensions fail, use logo as fallback
+      e.target.src = '/image/logo.jpg';
     }
   };
 
