@@ -36,7 +36,7 @@ const About = () => {
           {/* Right Section */}
           <div>
             <img
-              src='/image/CEO.jpeg'
+              src='/image/profile.png'
               alt="Shri Vagdevi Constructions"
               className="rounded-lg  shadow-lg w-full h-96 object-cover "
             />
@@ -98,7 +98,7 @@ const About = () => {
             {/* CEO Profile */}
             <div className="bg-gray-50 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow">
               <img
-                src="/image/CEO.jpeg"
+                src="/image/profile.png"
                 alt="CEO"
                 className="w-32 h-32 sm:w-48 sm:h-48 rounded-full mx-auto mb-4 object-cover border-4 border-blue-500"
               />
