@@ -30,7 +30,7 @@ function Footer() {
           </a>
         </div>
         <div className="mt-4">
-          <p className="text-sm">&copy; {new Date().getFullYear()} Durga Infra Private Limiteds. All rights reserved.</p>
+          <p className="text-sm">&copy; {new Date().getFullYear()} Shri Vagdevi Constructionss. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -24,7 +24,7 @@ function Home() {
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50">
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Welcome</h1>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">To</h1>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Durga Infra Private Limited</h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Shri Vagdevi Constructions</h1>
         </div>
       </div>
       <div className='carddd'>
@@ -34,15 +34,15 @@ function Home() {
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
                 src="/image/02.jpeg"
-                alt="Digital Solutions"
+                alt="Residential Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
               <div className="p-4">
-                <h2 className="text-xl font-bold text-gray-800 mb-2">Digital Innovation</h2>
+                <h2 className="text-xl font-bold text-gray-800 mb-2">Residential Construction</h2>
                 <p className="text-gray-600 leading-relaxed">
-                  Transforming businesses through cutting-edge digital solutions. Our innovative
-                  technology services help companies stay ahead in the digital age, offering
-                  seamless integration and enhanced user experiences.
+                  Building your dream home with precision and care. Our residential construction
+                  services cover everything from custom homes to renovations, ensuring quality
+                  craftsmanship and attention to detail in every project.
                 </p>
               </div>
             </div>
@@ -51,15 +51,15 @@ function Home() {
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
                 src="/image/03.jpeg"
-                alt="Cloud Services"
+                alt="Commercial Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
               <div className="p-4">
-                <h2 className="text-xl font-bold text-gray-800 mb-2">Cloud Solutions</h2>
+                <h2 className="text-xl font-bold text-gray-800 mb-2">Commercial Construction</h2>
                 <p className="text-gray-600 leading-relaxed">
-                  Leverage the power of cloud computing with our comprehensive cloud services.
-                  From migration to management, we ensure your business operates efficiently
-                  in the cloud environment.
+                  Delivering excellence in commercial building projects. From office complexes
+                  to retail spaces, we bring your commercial vision to life with superior
+                  construction standards and timely execution.
                 </p>
               </div>
             </div>
@@ -68,15 +68,15 @@ function Home() {
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
                 src="/image/04.jpeg"
-                alt="Cybersecurity"
+                alt="Interior Design & Renovation"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
               <div className="p-4">
-                <h2 className="text-xl font-bold text-gray-800 mb-2">Cybersecurity</h2>
+                <h2 className="text-xl font-bold text-gray-800 mb-2">Interior Design & Renovation</h2>
                 <p className="text-gray-600 leading-relaxed">
-                  Protect your digital assets with our state-of-the-art cybersecurity solutions.
-                  We provide comprehensive security measures to safeguard your business against
-                  evolving cyber threats.
+                  Transform your space with our expert interior renovation services.
+                  We specialize in modern designs, custom solutions, and high-quality
+                  renovations that enhance both aesthetics and functionality.
                 </p>
               </div>
             </div>

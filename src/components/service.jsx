@@ -7,7 +7,7 @@ const Service = () => {
       {/* Hero Section */}
       <div className="bg-blue-900 text-white py-16">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold mb-4">Durga Infra Private Limited.</h1>
+          <h1 className="text-4xl font-bold mb-4">Shri Vagdevi Constructions.</h1>
           <p className="text-lg">
             Building the future with innovation, integrity, and quality.
           </p>

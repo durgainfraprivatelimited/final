@@ -21,14 +21,14 @@ const About = () => {
           <div className="space-y-6">
             <h2 className="text-3xl font-bold text-gray-800">Our Story</h2>
             <p className="text-gray-600">
-              Durga Infra Private Limited. was run by the visionary leader, 
+              Shri Vagdevi Constructions. was run by the visionary leader, 
               <span className="font-bold text-gray-800"> Mr. Rangappa Rajput</span>, who believed in building a better future through innovative, 
               high-quality, and reliable construction services. From humble beginnings, Mr. Rangappa Rajput transformed a small team into one of the 
               most trusted names in the construction industry.
             </p>
             <p className="text-gray-600">
               Established with the mission to provide world-class construction solutions, 
-              Durga Infra Private Limited has been at the forefront of innovation, delivering projects that inspire and leave a lasting impact. 
+              Shri Vagdevi Constructions has been at the forefront of innovation, delivering projects that inspire and leave a lasting impact. 
               Over the years, we have successfully completed residential, commercial, industrial, and infrastructure projects with unmatched excellence.
             </p>
           </div>
@@ -37,7 +37,7 @@ const About = () => {
           <div>
             <img
               src='/image/CEO.jpeg'
-              alt="Durga Infra Private Limited"
+              alt="Shri Vagdevi Constructions"
               className="rounded-lg  shadow-lg w-full h-96 object-cover "
             />
           </div>
@@ -49,12 +49,12 @@ const About = () => {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">About Our Leader</h2>
           <p className="text-gray-600 max-w-3xl mx-auto">
-            <span className="font-bold text-gray-800">Mr. Rangappa Rajput</span>, the Leader and former CEO of Durga Infra Private Limited., 
+            <span className="font-bold text-gray-800">Mr. Rangappa Rajput</span>, the Leader and former CEO of Shri Vagdevi Constructions., 
             was a true visionary and pioneer in the construction industry. With a strong work ethic, unwavering dedication, and an 
             eye for innovation, he built a company that not only constructs buildings but also builds trust, relationships, and a brighter future.
           </p>
           <p className="text-gray-600 max-w-3xl mx-auto mt-4">
-            Under his leadership, Durga Infra Private Limited grew from a small enterprise into a respected name in the industry, known for its 
+            Under his leadership, Shri Vagdevi Constructions grew from a small enterprise into a respected name in the industry, known for its 
             commitment to quality, safety, and customer satisfaction. His legacy continues to guide and inspire our team as we strive 
             for excellence in every project we undertake.
           </p>
@@ -157,7 +157,7 @@ const About = () => {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Join Us in Building the Future</h2>
           <p className="mb-6">
-            Explore our services, work with our dedicated team, and experience the Durga Infra Private Limited difference.
+            Explore our services, work with our dedicated team, and experience the Shri Vagdevi Constructions difference.
           </p>
           <a
             href="/service"

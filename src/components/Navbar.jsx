@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <img src="/image/logo.jpg" alt="Logo" className="h-10 mr-3 rounded-full" />
-            <div className="text-xl font-bold text-white">Durga Infra Private Limited</div>
+            <div className="text-xl font-bold text-white">Shri Vagdevi Constructions</div>
           </div>
           <div className="lg:hidden">
             <button
