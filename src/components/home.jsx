@@ -96,8 +96,10 @@ function Home() {
             For inquiries or to schedule an appointment, please contact us:
           </p>
           <ul className="list-disc list-inside mb-4">
-            <li>Email: durgainfraprivatelimited@gmail.com</li>
-            <li>Phone: +91 7483445291</li>
+            <li>Email: shrivagdeviconstructions@gmail.com</li>
+            <li>Phone: +91 9741406259</li>
+            <li>Phone: +91 8971552132</li>
+            <li>Phone: +91 7624896303</li>
           </ul>
           <p>
             You can also fill out our <a href="/contact" className="text-blue-500 hover:underline">contact form</a> or <a href="/appointments" className="text-blue-500 hover:underline">schedule an appointment</a> online.
