@@ -21,14 +21,16 @@ function Home() {
         />
 
         {/* Text Overlay */}
-        
+
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50">
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Welcome</h1>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">To</h1>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Shri Vagdevi Constructions</h1>
         </div>
       </div>
-      <h2>GSTN: 29FNNPR5812J1Z8</h2>
+      <div className="container mx-auto px-4 text-center">
+        <h2 className="text-3xl font-bold mb-4">GSTN: 29FNNPR5812J1Z8</h2>
+      </div>
       {/* Visiting card */}
       <div className='cardddv'>
         <div className="container mx-auto p-4">
@@ -40,7 +42,7 @@ function Home() {
                 alt="Residential Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
-             
+
             </div>
 
             {/* Card 2 */}
@@ -50,16 +52,16 @@ function Home() {
                 alt="Commercial Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
-              
+
             </div>
 
-            
 
-            
+
+
           </div>
         </div>
 
-       
+
       </div>
       {/* Visting card compleate */}
       <div className='carddd'>
@@ -116,11 +118,11 @@ function Home() {
               </div>
             </div>
 
-            
+
           </div>
         </div>
 
-       
+
       </div>
 
       {/* Contact and Appointment Section */}
