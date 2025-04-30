@@ -10,42 +10,42 @@ const Album = () => {
   const images = [
     { 
       id: 1, 
-      url: '/image/0011.jpg',
+      url: '/image/001.jpg',
       title: 'Construction Site 1', 
       category: 'Construction',
       extension: 'jpg'
     },
     { 
       id: 2, 
-      url: '/image/0022.jpg',
+      url: '/image/002.jpg',
       title: 'Building Project', 
       category: 'Architecture',
       extension: 'jpeg'
     },
     {
       id: 3, 
-      url: '/image/0033.jpg',
+      url: '/image/003.jpg',
       title: 'Building Project', 
       category: 'Architecture',
       extension: 'jpg'
     },
     {
       id: 4, 
-      url: '/image/0044.jpg',
+      url: '/image/004.jpg',
       title: 'Building Project', 
       category: 'Architecture',
       extension: 'jpg'
     },
     { 
       id: 5, 
-      url: '/image/001.jpeg',
+      url: '/image/005.jpeg',
       title: 'Interior Design', 
       category: 'Interior',
       extension: 'jpeg'
     },
     { 
       id: 4, 
-      url: '/image/01.jpg',
+      url: '/image/01.jpeg',
       title: 'Interior Design', 
       category: 'Interior',
       extension: 'jpg'

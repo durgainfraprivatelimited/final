@@ -21,19 +21,36 @@ function Home() {
         />
 
         {/* Text Overlay */}
+        <h2>GSTN: 29FNNPR5812J1Z8</h2>
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50">
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Welcome</h1>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">To</h1>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif text-white font-bold">Shri Vagdevi Constructions</h1>
         </div>
       </div>
+      {/* Visiting card */}
+      <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+              <img
+                src="/image/visiting1.jpg"
+                alt="Residential Construction"
+                className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
+              />
+      </div>
+      <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+              <img
+                src="/image/visiting2.jpg"
+                alt="Residential Construction"
+                className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
+              />
+      </div>
+      {/* Visting card compleate */}
       <div className='carddd'>
         <div className="container mx-auto p-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Card 1 */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/image/02.jpeg"
+                src="/image/residential.jpg"
                 alt="Residential Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
@@ -50,7 +67,7 @@ function Home() {
             {/* Card 2 */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/image/03.jpeg"
+                src="/image/commercial.jpg"
                 alt="Commercial Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
@@ -67,7 +84,7 @@ function Home() {
             {/* Card 3 */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/image/04.jpeg"
+                src="/image/Interior.jpg"
                 alt="Interior Design & Renovation"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
