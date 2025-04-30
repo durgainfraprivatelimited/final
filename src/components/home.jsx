@@ -37,12 +37,12 @@ function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Card 1 */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
-              <img
+            <a href="https://www.shrivagdeviconstructions.com/service">  <img
                 src="/image/visiting1.jpg"
                 alt="Residential Construction"
                 className="w-full h-48 object-cover transform hover:scale-105 transition-transform duration-300"
               />
-
+</a>
             </div>
 
             {/* Card 2 */}
