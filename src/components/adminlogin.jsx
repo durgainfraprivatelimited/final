@@ -21,7 +21,7 @@ const AdminLogin = () => {
     e.preventDefault();
     setError('');
     
-    if (id === 'admin' && password === 'admin') {
+    if (id === 'RANGAPPA RAJAPUT' && password === 'RANGAPPALAXMI2551') {
       // Store admin authentication status
       localStorage.setItem('adminAuth', 'true');
       localStorage.setItem('adminLoginTime', new Date().getTime());
